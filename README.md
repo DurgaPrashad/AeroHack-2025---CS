@@ -248,5 +248,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 [Live Demo](https://your-demo-url.com) • [Report Bug](https://github.com/your-username/rubiks-cube-visualizer/issues) • [Request Feature](https://github.com/your-username/rubiks-cube-visualizer/issues)
 
-</div>#   A e r o H a c k - 2 0 2 5 - - - C S  
+</div>#   A e r o H a c k - 2 0 2 5 - - - C S 
+ 
  
