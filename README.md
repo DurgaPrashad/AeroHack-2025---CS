@@ -1,4 +1,4 @@
-# 🧩 Rubik's Cube 3D Visualizer
+<img width="632" height="562" alt="image" src="https://github.com/user-attachments/assets/5222770c-ef0f-4463-82c6-c33d16fba085" /># 🧩 Rubik's Cube 3D Visualizer
 
 An interactive, web-based 3D Rubik's Cube application built with React and Three.js that provides visual explanations, AI-powered solving assistance, and supports multiple cube sizes (2×2, 3×3, 4×4).
 
@@ -104,7 +104,7 @@ fetch(`https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/rubiks-cube-visualizer.git
+git clone https://github.com/DurgaPrashad/AeroHack-2025---CS.git
 cd rubiks-cube-visualizer
 
 # Install dependencies
