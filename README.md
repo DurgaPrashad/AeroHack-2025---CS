@@ -27,6 +27,7 @@ This application addresses these challenges by providing:
 ✅ **Self-Contained** - No external API dependencies for core functionality  
 
 ## ⚙️ How the Project Works
+<img width="632" height="562" alt="image" src="https://github.com/user-attachments/assets/09e871f7-5403-42c7-ae73-05b8292de988" />
 
 ### 🏗️ Application Structure
 
