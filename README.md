@@ -1,6 +1,6 @@
 # 🧩 Rubik's Cube 3D Visualizer
 
-[A comprehensive solution for solving rubiks cubes.pdf](https://github.com/user-attachments/files/21566365/A.comprehensive.solution.for.solving.rubiks.cubes.pdf)
+👉 📄 [A comprehensive solution for solving rubiks cubes.pdf](https://github.com/user-attachments/files/21566365/A.comprehensive.solution.for.solving.rubiks.cubes.pdf) 📌
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
