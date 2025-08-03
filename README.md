@@ -2,7 +2,7 @@
 
 An interactive, web-based 3D Rubik's Cube application built with React and Three.js that provides visual explanations, AI-powered solving assistance, and supports multiple cube sizes (2×2, 3×3, 4×4).
 
-![Rubik's Cube Visualizer](https://via.placeholder.com/800x400/1a1a1a/ffffff?text=3D+Rubik%27s+Cube+Visualizer)
+<img width="691" height="407" alt="image" src="https://github.com/user-attachments/assets/c7cd200a-1811-4fff-b230-cec8af604eb4" />
 
 ## 🧩 Problem Statement
 
@@ -12,6 +12,7 @@ Learning to solve a Rubik's Cube can be challenging and intimidating for beginne
 - **Multiple cube sizes** in one platform
 - **AI-powered assistance** for solving guidance
 - **Modern, accessible interface** for all skill levels
+![WhatsApp Image 2025-08-03 at 17 46 40_b85a5030](https://github.com/user-attachments/assets/4d34fdf9-3137-4650-88e4-61a60b2272ca)
 
 ## 💡 Solution Overview
 
