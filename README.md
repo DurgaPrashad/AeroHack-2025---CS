@@ -243,10 +243,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-<div align="center">
 
-**Made with ❤️ for the cubing community**
-
-[Live Demo](https://your-demo-url.com) • [Report Bug](https://github.com/your-username/rubiks-cube-visualizer/issues) • [Request Feature](https://github.com/your-username/rubiks-cube-visualizer/issues)
-
-</div>#
