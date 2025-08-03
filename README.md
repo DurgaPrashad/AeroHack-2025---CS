@@ -95,7 +95,7 @@ fetch(`https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:
    - Performance analytics and improvement tips
 
 ## 💻 Installation & Local Setup
-<img width="632" height="562" alt="image" src="https://github.com/user-attachments/assets/5222770c-ef0f-4463-82c6-c33d16fba085" />
+
 ### Prerequisites
 - Node.js 16+ and npm
 - Modern browser with WebGL support
@@ -219,7 +219,7 @@ VITE_GEMINI_API_KEY=your_api_key_here
 | **State Management** | React Hooks | Local state management |
 | **Build Tool** | Vite | Fast development & optimized builds |
 | **Deployment** | Vercel/Netlify | Static site hosting |
-
+<img width="632" height="562" alt="image" src="https://github.com/user-attachments/assets/5222770c-ef0f-4463-82c6-c33d16fba085" />
 ## 🤝 Contributing
 
 We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
@@ -230,9 +230,7 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 3. **Testing**: Add tests for new features
 4. **Documentation**: Update README for new features
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
