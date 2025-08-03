@@ -1,6 +1,8 @@
 # 🧩 Rubik's Cube 3D Visualizer
 
-An interactive, web-based 3D Rubik's Cube application built with React and Three.js that provides visual explanations, AI-powered solving assistance, and supports multiple cube sizes (2×2, 3×3, 4×4).
+An inte[A comprehensive solution for solving rubiks cubes.pdf](https://github.com/user-attachments/files/21566365/A.comprehensive.solution.for.solving.rubiks.cubes.pdf)
+
+ractive, web-based 3D Rubik's Cube application built with React and Three.js that provides visual explanations, AI-powered solving assistance, and supports multiple cube sizes (2×2, 3×3, 4×4).
 
 <img width="691" height="407" alt="image" src="https://github.com/user-attachments/assets/c7cd200a-1811-4fff-b230-cec8af604eb4" />
 
